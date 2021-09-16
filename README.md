@@ -1,7 +1,14 @@
 # algoritmos
 
+Algoritmos: 
+  - busca e 
+  - ordenação, 
+  - testes, 
+  - recursividade com fibonacci,
+  - busca e ordenacao Orientada a Objetos.
 
-Alguns dos algoritmos de busca e ordenação mais famosos. 
+Dependências externa necessária (pip):
+- pytest
 
 Observações:
   - O QuickSort foi escrito pelo professor/youtuber Halisson do canal: Programação Dinâmica.
