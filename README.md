@@ -1,16 +1,16 @@
-# algoritmos
+## Algoritmos
 
-Algoritmos: 
+### Tipos: 
   - busca e 
   - ordenação, 
   - testes, 
   - recursividade com fibonacci,
   - busca e ordenacao Orientada a Objetos.
 
-Dependências externa necessária (pip):
+### Dependências externa(pip):
 - pytest
 
-Observações:
+### Observações:
   - O QuickSort foi escrito pelo professor/youtuber Halisson do canal: Programação Dinâmica.
       - https://www.youtube.com/c/Programa%C3%A7%C3%A3oDin%C3%A2mica
   
