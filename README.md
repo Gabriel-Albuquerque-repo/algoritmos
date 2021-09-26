@@ -1,5 +1,8 @@
 ## Algoritmos
 
+### Linguagem:
+- Python.
+
 ### Tipos: 
   - busca e 
   - ordenação, 
